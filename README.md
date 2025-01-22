@@ -42,6 +42,19 @@ Follow these steps to run the project locally:
 - Clone the repository and run the application as per the installation steps.
 - Customize the components or styling to fit your needs.
 
+## Screenshots
+
+Include screenshots here to showcase the UI:
+- Home Page
+![Screenshot 2025-01-22 235730](https://github.com/user-attachments/assets/d1630c13-9b8c-4f5e-a0e8-937b90ee672b)
+
+- Testimonial slider
+![Screenshot 2025-01-22 235815](https://github.com/user-attachments/assets/c0663a71-48dd-4747-9964-8c0d0fce0f7c)
+
+- More
+![Screenshot 2025-01-22 235838](https://github.com/user-attachments/assets/f53c0906-8e04-4a3e-af5a-3a039c84d1bd)
+
+
 ## Credits
 
 This project was built as part of an assignment for **RegisterKaro**. Thanks to:
