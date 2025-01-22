@@ -22,11 +22,11 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/pankaj1330/RegisterKaro.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd <project-directory>
+   cd RegisterKaro
    ```
 3. Install dependencies:
    ```bash
