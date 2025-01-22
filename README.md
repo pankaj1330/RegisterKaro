@@ -54,6 +54,9 @@ Include screenshots here to showcase the UI:
 - More
 ![Screenshot 2025-01-22 235838](https://github.com/user-attachments/assets/f53c0906-8e04-4a3e-af5a-3a039c84d1bd)
 
+## Live Link
+
+- **Assignment link** - https://register-karo-ten.vercel.app/
 
 ## Credits
 
